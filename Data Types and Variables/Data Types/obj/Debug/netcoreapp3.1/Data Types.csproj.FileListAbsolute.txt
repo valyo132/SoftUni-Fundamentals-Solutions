@@ -1,0 +1,14 @@
+M:\Fundamentals\Data Types\bin\Debug\netcoreapp3.1\Data Types.exe
+M:\Fundamentals\Data Types\bin\Debug\netcoreapp3.1\Data Types.deps.json
+M:\Fundamentals\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.json
+M:\Fundamentals\Data Types\bin\Debug\netcoreapp3.1\Data Types.runtimeconfig.dev.json
+M:\Fundamentals\Data Types\bin\Debug\netcoreapp3.1\Data Types.dll
+M:\Fundamentals\Data Types\bin\Debug\netcoreapp3.1\Data Types.pdb
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.AssemblyReference.cache
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfoInputs.cache
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.AssemblyInfo.cs
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.dll
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.pdb
+M:\Fundamentals\Data Types\obj\Debug\netcoreapp3.1\Data Types.genruntimeconfig.cache
