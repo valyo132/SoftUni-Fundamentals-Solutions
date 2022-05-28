@@ -1,0 +1,14 @@
+M:\Fundamentals\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.exe
+M:\Fundamentals\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.deps.json
+M:\Fundamentals\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.runtimeconfig.json
+M:\Fundamentals\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.runtimeconfig.dev.json
+M:\Fundamentals\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.dll
+M:\Fundamentals\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.pdb
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.csproj.AssemblyReference.cache
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.AssemblyInfoInputs.cache
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.AssemblyInfo.cs
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.dll
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.pdb
+M:\Fundamentals\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.genruntimeconfig.cache

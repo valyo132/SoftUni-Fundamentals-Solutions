@@ -1,0 +1,14 @@
+M:\Fundamentals\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.exe
+M:\Fundamentals\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.deps.json
+M:\Fundamentals\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.json
+M:\Fundamentals\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.dev.json
+M:\Fundamentals\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.dll
+M:\Fundamentals\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.pdb
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.AssemblyReference.cache
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfoInputs.cache
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfo.cs
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.dll
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.pdb
+M:\Fundamentals\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.genruntimeconfig.cache

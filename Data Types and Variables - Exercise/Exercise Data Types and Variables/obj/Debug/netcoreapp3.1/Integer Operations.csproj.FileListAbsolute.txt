@@ -1,0 +1,14 @@
+M:\Fundamentals\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Integer Operations.exe
+M:\Fundamentals\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Integer Operations.deps.json
+M:\Fundamentals\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.json
+M:\Fundamentals\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Integer Operations.runtimeconfig.dev.json
+M:\Fundamentals\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Integer Operations.dll
+M:\Fundamentals\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\Integer Operations.pdb
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.csproj.AssemblyReference.cache
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfoInputs.cache
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.AssemblyInfo.cs
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.dll
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.pdb
+M:\Fundamentals\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\Integer Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\Fundamentals\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.exe
+M:\Fundamentals\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.deps.json
+M:\Fundamentals\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.json
+M:\Fundamentals\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.runtimeconfig.dev.json
+M:\Fundamentals\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.dll
+M:\Fundamentals\Beer Kegs\bin\Debug\netcoreapp3.1\Beer Kegs.pdb
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.AssemblyReference.cache
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfoInputs.cache
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.AssemblyInfo.cs
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.dll
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.pdb
+M:\Fundamentals\Beer Kegs\obj\Debug\netcoreapp3.1\Beer Kegs.genruntimeconfig.cache

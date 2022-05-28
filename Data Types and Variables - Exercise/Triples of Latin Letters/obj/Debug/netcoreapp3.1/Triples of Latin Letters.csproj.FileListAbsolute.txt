@@ -1,0 +1,14 @@
+M:\Fundamentals\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.exe
+M:\Fundamentals\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.deps.json
+M:\Fundamentals\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.runtimeconfig.json
+M:\Fundamentals\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.runtimeconfig.dev.json
+M:\Fundamentals\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.dll
+M:\Fundamentals\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.pdb
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.csproj.AssemblyReference.cache
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.AssemblyInfoInputs.cache
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.AssemblyInfo.cs
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.dll
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.pdb
+M:\Fundamentals\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.genruntimeconfig.cache

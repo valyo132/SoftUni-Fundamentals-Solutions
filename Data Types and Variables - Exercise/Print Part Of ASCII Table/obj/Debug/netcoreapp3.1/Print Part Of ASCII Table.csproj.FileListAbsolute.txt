@@ -1,0 +1,14 @@
+M:\Fundamentals\Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\Print Part Of ASCII Table.exe
+M:\Fundamentals\Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\Print Part Of ASCII Table.deps.json
+M:\Fundamentals\Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\Print Part Of ASCII Table.runtimeconfig.json
+M:\Fundamentals\Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\Print Part Of ASCII Table.runtimeconfig.dev.json
+M:\Fundamentals\Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\Print Part Of ASCII Table.dll
+M:\Fundamentals\Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\Print Part Of ASCII Table.pdb
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.csproj.AssemblyReference.cache
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.AssemblyInfoInputs.cache
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.AssemblyInfo.cs
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.dll
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.pdb
+M:\Fundamentals\Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\Print Part Of ASCII Table.genruntimeconfig.cache

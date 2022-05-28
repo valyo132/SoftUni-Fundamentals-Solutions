@@ -1,0 +1,14 @@
+M:\Fundamentals\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+M:\Fundamentals\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+M:\Fundamentals\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+M:\Fundamentals\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+M:\Fundamentals\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+M:\Fundamentals\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.AssemblyReference.cache
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+M:\Fundamentals\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

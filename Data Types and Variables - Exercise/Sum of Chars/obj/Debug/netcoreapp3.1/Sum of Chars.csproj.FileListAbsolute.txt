@@ -1,0 +1,14 @@
+M:\Fundamentals\Sum of Chars\bin\Debug\netcoreapp3.1\Sum of Chars.exe
+M:\Fundamentals\Sum of Chars\bin\Debug\netcoreapp3.1\Sum of Chars.deps.json
+M:\Fundamentals\Sum of Chars\bin\Debug\netcoreapp3.1\Sum of Chars.runtimeconfig.json
+M:\Fundamentals\Sum of Chars\bin\Debug\netcoreapp3.1\Sum of Chars.runtimeconfig.dev.json
+M:\Fundamentals\Sum of Chars\bin\Debug\netcoreapp3.1\Sum of Chars.dll
+M:\Fundamentals\Sum of Chars\bin\Debug\netcoreapp3.1\Sum of Chars.pdb
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.csproj.AssemblyReference.cache
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.AssemblyInfoInputs.cache
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.AssemblyInfo.cs
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.dll
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.pdb
+M:\Fundamentals\Sum of Chars\obj\Debug\netcoreapp3.1\Sum of Chars.genruntimeconfig.cache
