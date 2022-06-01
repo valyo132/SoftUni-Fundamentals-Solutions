@@ -1,0 +1,14 @@
+M:\Fundamentals\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+M:\Fundamentals\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+M:\Fundamentals\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+M:\Fundamentals\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+M:\Fundamentals\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+M:\Fundamentals\02. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+M:\Fundamentals\02. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\Fundamentals\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+M:\Fundamentals\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+M:\Fundamentals\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+M:\Fundamentals\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+M:\Fundamentals\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+M:\Fundamentals\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.AssemblyReference.cache
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+M:\Fundamentals\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.genruntimeconfig.cache

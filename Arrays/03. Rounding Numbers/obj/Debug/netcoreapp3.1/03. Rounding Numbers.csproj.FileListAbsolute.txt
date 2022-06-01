@@ -1,0 +1,14 @@
+M:\Fundamentals\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.exe
+M:\Fundamentals\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.deps.json
+M:\Fundamentals\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.json
+M:\Fundamentals\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.dev.json
+M:\Fundamentals\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+M:\Fundamentals\03. Rounding Numbers\bin\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.AssemblyReference.cache
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfo.cs
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+M:\Fundamentals\03. Rounding Numbers\obj\Debug\netcoreapp3.1\03. Rounding Numbers.genruntimeconfig.cache
