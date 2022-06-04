@@ -1,0 +1,14 @@
+M:\Fundamentals\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+M:\Fundamentals\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+M:\Fundamentals\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+M:\Fundamentals\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+M:\Fundamentals\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+M:\Fundamentals\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.AssemblyReference.cache
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+M:\Fundamentals\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

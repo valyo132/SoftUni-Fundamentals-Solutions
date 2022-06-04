@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+M:\Fundamentals\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+M:\Fundamentals\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+M:\Fundamentals\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+M:\Fundamentals\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
+M:\Fundamentals\01. Train\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache

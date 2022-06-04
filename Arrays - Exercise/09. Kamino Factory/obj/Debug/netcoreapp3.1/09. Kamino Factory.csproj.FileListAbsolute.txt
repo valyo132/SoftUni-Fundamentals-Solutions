@@ -1,0 +1,14 @@
+M:\Fundamentals\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.exe
+M:\Fundamentals\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.deps.json
+M:\Fundamentals\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.json
+M:\Fundamentals\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.dev.json
+M:\Fundamentals\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.dll
+M:\Fundamentals\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.AssemblyReference.cache
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfoInputs.cache
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfo.cs
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.dll
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+M:\Fundamentals\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.genruntimeconfig.cache

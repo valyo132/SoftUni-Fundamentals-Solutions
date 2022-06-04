@@ -1,0 +1,14 @@
+M:\Fundamentals\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.exe
+M:\Fundamentals\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.deps.json
+M:\Fundamentals\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.json
+M:\Fundamentals\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.dev.json
+M:\Fundamentals\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.dll
+M:\Fundamentals\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.pdb
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.csproj.AssemblyReference.cache
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfoInputs.cache
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfo.cs
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.csproj.CoreCompileInputs.cache
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.dll
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.pdb
+M:\Fundamentals\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.genruntimeconfig.cache

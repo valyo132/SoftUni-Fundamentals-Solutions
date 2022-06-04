@@ -1,0 +1,14 @@
+M:\Fundamentals\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.exe
+M:\Fundamentals\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.deps.json
+M:\Fundamentals\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.json
+M:\Fundamentals\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.dev.json
+M:\Fundamentals\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.dll
+M:\Fundamentals\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.pdb
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.AssemblyReference.cache
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfoInputs.cache
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfo.cs
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.dll
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.pdb
+M:\Fundamentals\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.genruntimeconfig.cache
