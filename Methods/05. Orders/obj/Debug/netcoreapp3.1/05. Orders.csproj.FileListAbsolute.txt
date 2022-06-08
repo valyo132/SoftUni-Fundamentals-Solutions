@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+M:\Fundamentals\Methods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+M:\Fundamentals\Methods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+M:\Fundamentals\Methods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+M:\Fundamentals\Methods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+M:\Fundamentals\Methods\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+M:\Fundamentals\Methods\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

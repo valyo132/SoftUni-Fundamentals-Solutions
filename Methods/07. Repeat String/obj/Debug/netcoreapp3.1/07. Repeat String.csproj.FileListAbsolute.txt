@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.exe
+M:\Fundamentals\Methods\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.deps.json
+M:\Fundamentals\Methods\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.json
+M:\Fundamentals\Methods\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.dev.json
+M:\Fundamentals\Methods\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.dll
+M:\Fundamentals\Methods\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.pdb
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfo.cs
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.dll
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.pdb
+M:\Fundamentals\Methods\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.genruntimeconfig.cache

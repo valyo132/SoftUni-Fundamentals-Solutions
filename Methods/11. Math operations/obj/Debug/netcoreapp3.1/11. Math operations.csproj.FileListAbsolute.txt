@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+M:\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+M:\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+M:\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+M:\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+M:\Fundamentals\Methods\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb
+M:\Fundamentals\Methods\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.genruntimeconfig.cache

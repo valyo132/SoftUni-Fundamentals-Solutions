@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+M:\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+M:\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+M:\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+M:\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+M:\Fundamentals\Methods\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb
+M:\Fundamentals\Methods\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.genruntimeconfig.cache
