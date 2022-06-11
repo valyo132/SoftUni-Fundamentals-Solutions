@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+M:\Fundamentals\Methods - Exercise\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.genruntimeconfig.cache

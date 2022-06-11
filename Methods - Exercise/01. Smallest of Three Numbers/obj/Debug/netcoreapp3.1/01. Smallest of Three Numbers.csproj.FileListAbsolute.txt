@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.exe
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.deps.json
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.json
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+M:\Fundamentals\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.genruntimeconfig.cache
