@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.exe
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.deps.json
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.runtimeconfig.json
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.runtimeconfig.dev.json
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.dll
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.pdb
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.AssemblyInfo.cs
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.dll
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.pdb
+M:\Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.genruntimeconfig.cache

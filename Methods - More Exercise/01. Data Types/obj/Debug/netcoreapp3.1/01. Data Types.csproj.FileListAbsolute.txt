@@ -1,0 +1,14 @@
+M:\Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.exe
+M:\Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.deps.json
+M:\Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.json
+M:\Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.dev.json
+M:\Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.dll
+M:\Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.pdb
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csproj.AssemblyReference.cache
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfoInputs.cache
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfo.cs
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.dll
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.pdb
+M:\Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.genruntimeconfig.cache
