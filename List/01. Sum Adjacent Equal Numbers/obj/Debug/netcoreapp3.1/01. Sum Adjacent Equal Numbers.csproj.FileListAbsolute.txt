@@ -1,0 +1,14 @@
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.exe
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.deps.json
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+M:\Fundamentals\List\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache

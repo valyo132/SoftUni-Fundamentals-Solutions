@@ -1,0 +1,14 @@
+M:\Fundamentals\List\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.exe
+M:\Fundamentals\List\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.deps.json
+M:\Fundamentals\List\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.runtimeconfig.json
+M:\Fundamentals\List\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.runtimeconfig.dev.json
+M:\Fundamentals\List\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.dll
+M:\Fundamentals\List\07. List Manipulation Advanced\bin\Debug\netcoreapp3.1\07. List Manipulation Advanced.pdb
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.csproj.AssemblyReference.cache
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.AssemblyInfo.cs
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.dll
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.pdb
+M:\Fundamentals\List\07. List Manipulation Advanced\obj\Debug\netcoreapp3.1\07. List Manipulation Advanced.genruntimeconfig.cache

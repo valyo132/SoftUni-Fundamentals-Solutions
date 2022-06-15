@@ -1,0 +1,14 @@
+M:\Fundamentals\List\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.exe
+M:\Fundamentals\List\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.deps.json
+M:\Fundamentals\List\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.json
+M:\Fundamentals\List\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.dev.json
+M:\Fundamentals\List\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+M:\Fundamentals\List\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.AssemblyReference.cache
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfo.cs
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+M:\Fundamentals\List\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.genruntimeconfig.cache

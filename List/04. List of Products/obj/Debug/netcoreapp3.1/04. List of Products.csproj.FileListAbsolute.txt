@@ -1,0 +1,14 @@
+M:\Fundamentals\List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+M:\Fundamentals\List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+M:\Fundamentals\List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+M:\Fundamentals\List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+M:\Fundamentals\List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+M:\Fundamentals\List\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.AssemblyReference.cache
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+M:\Fundamentals\List\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache
