@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+M:\Fundamentals\01. Train\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+M:\Fundamentals\01. Train\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+M:\Fundamentals\01. Train\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+M:\Fundamentals\01. Train\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+M:\Fundamentals\01. Train\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache

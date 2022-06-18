@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.exe
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.deps.json
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.runtimeconfig.json
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.dll
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\bin\Debug\netcoreapp3.1\09. Pokemon Don't Go.pdb
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.AssemblyInfo.cs
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.dll
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.pdb
+M:\Fundamentals\01. Train\09. Pokemon Don't Go\obj\Debug\netcoreapp3.1\09. Pokemon Don't Go.genruntimeconfig.cache

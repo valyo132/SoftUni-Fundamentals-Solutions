@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+M:\Fundamentals\01. Train\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+M:\Fundamentals\01. Train\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+M:\Fundamentals\01. Train\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+M:\Fundamentals\01. Train\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb
+M:\Fundamentals\01. Train\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.genruntimeconfig.cache

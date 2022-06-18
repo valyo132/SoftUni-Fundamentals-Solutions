@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+M:\Fundamentals\01. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+M:\Fundamentals\01. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+M:\Fundamentals\01. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+M:\Fundamentals\01. Train\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb
+M:\Fundamentals\01. Train\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.genruntimeconfig.cache

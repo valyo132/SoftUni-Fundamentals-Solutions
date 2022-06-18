@@ -1,0 +1,14 @@
+M:\Fundamentals\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+M:\Fundamentals\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+M:\Fundamentals\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+M:\Fundamentals\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+M:\Fundamentals\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+M:\Fundamentals\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.AssemblyReference.cache
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.CoreCompileInputs.cache
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb
+M:\Fundamentals\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.genruntimeconfig.cache

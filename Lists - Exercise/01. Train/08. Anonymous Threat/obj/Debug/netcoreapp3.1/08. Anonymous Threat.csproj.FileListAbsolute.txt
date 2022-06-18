@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.exe
+M:\Fundamentals\01. Train\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.deps.json
+M:\Fundamentals\01. Train\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.json
+M:\Fundamentals\01. Train\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+M:\Fundamentals\01. Train\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfo.cs
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+M:\Fundamentals\01. Train\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.genruntimeconfig.cache

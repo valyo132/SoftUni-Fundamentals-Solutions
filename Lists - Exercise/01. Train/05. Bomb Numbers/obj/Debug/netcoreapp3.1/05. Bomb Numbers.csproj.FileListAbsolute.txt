@@ -1,0 +1,14 @@
+M:\Fundamentals\01. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+M:\Fundamentals\01. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+M:\Fundamentals\01. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+M:\Fundamentals\01. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+M:\Fundamentals\01. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+M:\Fundamentals\01. Train\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.AssemblyReference.cache
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+M:\Fundamentals\01. Train\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.genruntimeconfig.cache
