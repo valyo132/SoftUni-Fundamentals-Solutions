@@ -1,0 +1,14 @@
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.exe
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.deps.json
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.json
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.runtimeconfig.dev.json
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.dll
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\bin\Debug\netcoreapp3.1\04. Students.pdb
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.AssemblyReference.cache
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfoInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.AssemblyInfo.cs
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.dll
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.pdb
+M:\Fundamentals\Objects and Classes - Exercise\04. Students\obj\Debug\netcoreapp3.1\04. Students.genruntimeconfig.cache

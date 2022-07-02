@@ -1,0 +1,14 @@
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.exe
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.deps.json
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.json
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.runtimeconfig.dev.json
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.dll
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\netcoreapp3.1\02. Articles.pdb
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.AssemblyReference.cache
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfoInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.AssemblyInfo.cs
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.dll
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.pdb
+M:\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\netcoreapp3.1\02. Articles.genruntimeconfig.cache

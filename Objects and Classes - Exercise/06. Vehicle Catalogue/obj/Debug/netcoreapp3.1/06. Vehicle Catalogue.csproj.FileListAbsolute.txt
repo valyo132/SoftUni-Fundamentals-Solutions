@@ -1,0 +1,14 @@
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.exe
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.deps.json
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.json
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.runtimeconfig.dev.json
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csproj.AssemblyReference.cache
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfoInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.AssemblyInfo.cs
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.dll
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.pdb
+M:\Fundamentals\Objects and Classes - Exercise\06. Vehicle Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle Catalogue.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.exe
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.deps.json
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.json
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.dev.json
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.dll
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.AssemblyReference.cache
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfoInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfo.cs
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.dll
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+M:\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.genruntimeconfig.cache
