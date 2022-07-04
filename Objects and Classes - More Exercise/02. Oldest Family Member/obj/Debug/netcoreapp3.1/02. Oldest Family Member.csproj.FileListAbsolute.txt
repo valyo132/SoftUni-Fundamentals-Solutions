@@ -1,0 +1,14 @@
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.exe
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.deps.json
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.runtimeconfig.json
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.runtimeconfig.dev.json
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.dll
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.pdb
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.csproj.AssemblyReference.cache
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.AssemblyInfoInputs.cache
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.AssemblyInfo.cs
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.dll
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.pdb
+M:\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.exe
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.deps.json
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.runtimeconfig.json
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.runtimeconfig.dev.json
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.dll
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.pdb
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.csproj.AssemblyReference.cache
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.AssemblyInfoInputs.cache
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.AssemblyInfo.cs
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.dll
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.pdb
+M:\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.genruntimeconfig.cache
