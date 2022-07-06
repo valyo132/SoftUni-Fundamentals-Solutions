@@ -1,0 +1,14 @@
+M:\Fundamentals\Associative Arrays\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.exe
+M:\Fundamentals\Associative Arrays\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.deps.json
+M:\Fundamentals\Associative Arrays\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.json
+M:\Fundamentals\Associative Arrays\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.dev.json
+M:\Fundamentals\Associative Arrays\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.dll
+M:\Fundamentals\Associative Arrays\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.pdb
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.AssemblyReference.cache
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfoInputs.cache
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfo.cs
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.dll
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.pdb
+M:\Fundamentals\Associative Arrays\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.genruntimeconfig.cache
