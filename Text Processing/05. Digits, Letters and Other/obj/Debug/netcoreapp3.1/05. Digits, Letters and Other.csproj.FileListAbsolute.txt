@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.exe
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.deps.json
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.json
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+M:\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.genruntimeconfig.cache

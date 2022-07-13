@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+M:\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache
