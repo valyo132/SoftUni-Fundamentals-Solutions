@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.exe
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.deps.json
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.runtimeconfig.json
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.dll
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\bin\Debug\netcoreapp3.1\05. HTML.pdb
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.dll
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.pdb
+M:\Fundamentals\Text Processing - More Exercise\05. HTML\obj\Debug\netcoreapp3.1\05. HTML.genruntimeconfig.cache

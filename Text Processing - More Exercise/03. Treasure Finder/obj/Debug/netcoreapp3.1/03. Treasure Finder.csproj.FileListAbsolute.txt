@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.exe
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.deps.json
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.runtimeconfig.json
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.dll
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.pdb
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.dll
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.pdb
+M:\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.genruntimeconfig.cache

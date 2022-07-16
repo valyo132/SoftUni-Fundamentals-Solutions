@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.exe
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.deps.json
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.json
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+M:\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.genruntimeconfig.cache
