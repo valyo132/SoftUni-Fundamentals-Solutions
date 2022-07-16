@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.exe
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.deps.json
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.json
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.dll
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\bin\Debug\netcoreapp3.1\01. Valid Usernames.pdb
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.dll
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.pdb
+M:\Fundamentals\Text Processing - Exercise\01. Valid Usernames\obj\Debug\netcoreapp3.1\01. Valid Usernames.genruntimeconfig.cache

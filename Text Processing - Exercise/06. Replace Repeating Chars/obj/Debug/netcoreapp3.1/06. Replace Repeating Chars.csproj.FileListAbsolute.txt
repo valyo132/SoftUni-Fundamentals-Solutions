@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.exe
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.deps.json
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.json
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+M:\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.genruntimeconfig.cache

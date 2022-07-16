@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.exe
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.deps.json
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.runtimeconfig.json
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.dll
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\netcoreapp3.1\08. Letters Change Numbers.pdb
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.dll
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.pdb
+M:\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\netcoreapp3.1\08. Letters Change Numbers.genruntimeconfig.cache

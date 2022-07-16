@@ -1,0 +1,14 @@
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csproj.AssemblyReference.cache
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb
+M:\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.genruntimeconfig.cache
