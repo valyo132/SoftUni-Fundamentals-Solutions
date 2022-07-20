@@ -1,0 +1,14 @@
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.exe
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.deps.json
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.json
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.dev.json
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.dll
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.AssemblyReference.cache
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfoInputs.cache
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfo.cs
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.dll
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+M:\Fundamentals\Regular Expressions\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.genruntimeconfig.cache

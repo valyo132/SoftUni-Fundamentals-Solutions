@@ -1,0 +1,14 @@
+M:\Fundamentals\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.exe
+M:\Fundamentals\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.deps.json
+M:\Fundamentals\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.json
+M:\Fundamentals\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.runtimeconfig.dev.json
+M:\Fundamentals\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.dll
+M:\Fundamentals\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp3.1\01. Match Full Name.pdb
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.AssemblyReference.cache
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfoInputs.cache
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.AssemblyInfo.cs
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.dll
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.pdb
+M:\Fundamentals\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp3.1\01. Match Full Name.genruntimeconfig.cache
