@@ -1,0 +1,14 @@
+M:\Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.exe
+M:\Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.deps.json
+M:\Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.runtimeconfig.json
+M:\Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.runtimeconfig.dev.json
+M:\Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.dll
+M:\Fundamentals\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.pdb
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.csproj.AssemblyReference.cache
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.AssemblyInfoInputs.cache
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.AssemblyInfo.cs
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.dll
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.pdb
+M:\Fundamentals\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.genruntimeconfig.cache

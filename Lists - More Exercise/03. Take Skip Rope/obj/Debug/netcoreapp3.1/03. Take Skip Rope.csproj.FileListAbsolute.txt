@@ -1,0 +1,14 @@
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp3.1\03. Take Skip Rope.exe
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp3.1\03. Take Skip Rope.deps.json
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp3.1\03. Take Skip Rope.runtimeconfig.json
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp3.1\03. Take Skip Rope.runtimeconfig.dev.json
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp3.1\03. Take Skip Rope.dll
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\bin\Debug\netcoreapp3.1\03. Take Skip Rope.pdb
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.csproj.AssemblyReference.cache
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.AssemblyInfoInputs.cache
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.AssemblyInfo.cs
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.dll
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.pdb
+M:\Fundamentals\Lists - More Exercise\03. Take Skip Rope\obj\Debug\netcoreapp3.1\03. Take Skip Rope.genruntimeconfig.cache

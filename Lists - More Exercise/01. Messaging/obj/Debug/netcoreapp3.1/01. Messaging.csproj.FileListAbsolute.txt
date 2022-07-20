@@ -1,0 +1,14 @@
+M:\Fundamentals\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.exe
+M:\Fundamentals\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.deps.json
+M:\Fundamentals\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.json
+M:\Fundamentals\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.dev.json
+M:\Fundamentals\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.dll
+M:\Fundamentals\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.pdb
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csproj.AssemblyReference.cache
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfoInputs.cache
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfo.cs
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.dll
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.pdb
+M:\Fundamentals\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.genruntimeconfig.cache
