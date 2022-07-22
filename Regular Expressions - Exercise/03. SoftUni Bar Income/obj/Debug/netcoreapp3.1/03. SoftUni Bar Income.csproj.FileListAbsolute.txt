@@ -1,0 +1,14 @@
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.exe
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.deps.json
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.runtimeconfig.json
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.runtimeconfig.dev.json
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.dll
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp3.1\03. SoftUni Bar Income.pdb
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.csproj.AssemblyReference.cache
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.AssemblyInfo.cs
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.dll
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.pdb
+M:\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp3.1\03. SoftUni Bar Income.genruntimeconfig.cache

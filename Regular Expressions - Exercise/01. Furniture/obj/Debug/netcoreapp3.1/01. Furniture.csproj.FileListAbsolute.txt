@@ -1,0 +1,14 @@
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.exe
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.deps.json
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.json
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.runtimeconfig.dev.json
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.dll
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.1\01. Furniture.pdb
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csproj.AssemblyReference.cache
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfoInputs.cache
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.AssemblyInfo.cs
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.dll
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.pdb
+M:\Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.1\01. Furniture.genruntimeconfig.cache
