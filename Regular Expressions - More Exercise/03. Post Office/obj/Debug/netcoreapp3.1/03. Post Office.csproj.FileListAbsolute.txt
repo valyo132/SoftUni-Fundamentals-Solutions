@@ -1,0 +1,14 @@
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.exe
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.deps.json
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.runtimeconfig.json
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.runtimeconfig.dev.json
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.dll
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\bin\Debug\netcoreapp3.1\03. Post Office.pdb
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.csproj.AssemblyReference.cache
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.AssemblyInfoInputs.cache
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.AssemblyInfo.cs
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.dll
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.pdb
+M:\Fundamentals\Regular Expressions - More Exercise\03. Post Office\obj\Debug\netcoreapp3.1\03. Post Office.genruntimeconfig.cache
