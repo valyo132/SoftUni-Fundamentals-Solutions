@@ -1,0 +1,14 @@
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\netcoreapp3.1\05. SoftUni Parking.exe
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\netcoreapp3.1\05. SoftUni Parking.deps.json
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\netcoreapp3.1\05. SoftUni Parking.runtimeconfig.json
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\netcoreapp3.1\05. SoftUni Parking.runtimeconfig.dev.json
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\netcoreapp3.1\05. SoftUni Parking.dll
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\bin\Debug\netcoreapp3.1\05. SoftUni Parking.pdb
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.csproj.AssemblyReference.cache
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.AssemblyInfoInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.AssemblyInfo.cs
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.dll
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.pdb
+M:\Fundamentals\Associative Arrays - Exercise\05. SoftUni Parking\obj\Debug\netcoreapp3.1\05. SoftUni Parking.genruntimeconfig.cache

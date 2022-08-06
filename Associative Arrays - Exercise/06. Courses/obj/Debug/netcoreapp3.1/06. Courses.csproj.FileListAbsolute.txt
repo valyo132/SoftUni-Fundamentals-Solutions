@@ -1,0 +1,14 @@
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.exe
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.deps.json
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.json
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.dev.json
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.dll
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.pdb
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csproj.AssemblyReference.cache
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfoInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfo.cs
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.dll
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.pdb
+M:\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.genruntimeconfig.cache

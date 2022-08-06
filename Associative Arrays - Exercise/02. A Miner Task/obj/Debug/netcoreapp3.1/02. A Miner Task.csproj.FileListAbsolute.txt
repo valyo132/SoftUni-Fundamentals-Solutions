@@ -1,0 +1,14 @@
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.AssemblyReference.cache
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+M:\Fundamentals\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.exe
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.deps.json
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.json
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.runtimeconfig.dev.json
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.dll
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\bin\Debug\netcoreapp3.1\04. Orders.pdb
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csproj.AssemblyReference.cache
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfoInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.AssemblyInfo.cs
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.dll
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.pdb
+M:\Fundamentals\Associative Arrays - Exercise\04. Orders\obj\Debug\netcoreapp3.1\04. Orders.genruntimeconfig.cache
