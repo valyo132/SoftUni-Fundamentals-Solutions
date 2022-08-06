@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+M:\Fundamentals\Final Exam Preparation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

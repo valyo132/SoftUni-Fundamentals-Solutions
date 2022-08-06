@@ -1,0 +1,16 @@
+M:\Fundamentals\Final Exam Preparation\03. P!rates\bin\Debug\net5.0\03. P!rates.exe
+M:\Fundamentals\Final Exam Preparation\03. P!rates\bin\Debug\net5.0\03. P!rates.deps.json
+M:\Fundamentals\Final Exam Preparation\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\03. P!rates\bin\Debug\net5.0\03. P!rates.dll
+M:\Fundamentals\Final Exam Preparation\03. P!rates\bin\Debug\net5.0\03. P!rates.pdb
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.dll
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\refint\03. P!rates.dll
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.pdb
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\03. P!rates.genruntimeconfig.cache
+M:\Fundamentals\Final Exam Preparation\03. P!rates\obj\Debug\net5.0\ref\03. P!rates.dll

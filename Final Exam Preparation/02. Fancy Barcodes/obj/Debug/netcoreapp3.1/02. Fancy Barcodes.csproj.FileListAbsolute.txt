@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+M:\Fundamentals\Final Exam Preparation\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache

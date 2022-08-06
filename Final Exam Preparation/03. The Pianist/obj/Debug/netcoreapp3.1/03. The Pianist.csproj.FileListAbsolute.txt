@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb
+M:\Fundamentals\Final Exam Preparation\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.genruntimeconfig.cache

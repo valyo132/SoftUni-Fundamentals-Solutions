@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.exe
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.deps.json
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.dll
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.dll
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+M:\Fundamentals\Final Exam Preparation\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.genruntimeconfig.cache

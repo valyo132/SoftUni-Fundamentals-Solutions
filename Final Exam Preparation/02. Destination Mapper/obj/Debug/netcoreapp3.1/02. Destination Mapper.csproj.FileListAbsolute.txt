@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+M:\Fundamentals\Final Exam Preparation\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache

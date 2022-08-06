@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+M:\Fundamentals\Final Exam Preparation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.genruntimeconfig.cache

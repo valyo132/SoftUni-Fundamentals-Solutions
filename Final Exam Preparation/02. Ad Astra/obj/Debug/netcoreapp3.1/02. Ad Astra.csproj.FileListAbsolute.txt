@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb
+M:\Fundamentals\Final Exam Preparation\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.genruntimeconfig.cache

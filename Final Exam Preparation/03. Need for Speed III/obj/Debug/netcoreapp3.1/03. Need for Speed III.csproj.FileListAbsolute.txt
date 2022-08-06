@@ -1,0 +1,14 @@
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.exe
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.deps.json
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.json
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.dev.json
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.dll
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csproj.AssemblyReference.cache
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfoInputs.cache
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfo.cs
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.dll
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+M:\Fundamentals\Final Exam Preparation\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.genruntimeconfig.cache
