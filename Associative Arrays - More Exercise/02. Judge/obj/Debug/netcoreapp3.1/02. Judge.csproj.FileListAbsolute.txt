@@ -1,0 +1,14 @@
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.exe
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.deps.json
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.runtimeconfig.json
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.runtimeconfig.dev.json
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.dll
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\netcoreapp3.1\02. Judge.pdb
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.csproj.AssemblyReference.cache
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.GeneratedMSBuildEditorConfig.editorconfig
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.AssemblyInfoInputs.cache
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.AssemblyInfo.cs
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.csproj.CoreCompileInputs.cache
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.dll
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.pdb
+M:\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\netcoreapp3.1\02. Judge.genruntimeconfig.cache
